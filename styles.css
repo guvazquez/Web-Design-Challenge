@@ -1,0 +1,15 @@
+#home_image{
+    float: left;
+}
+
+#summary_card{
+    margin-top: 65px;
+}
+
+#visualizations_card{
+    margin-top: 65px;
+}
+
+#visualizations_imgs{
+    margin-left: 50px;
+}
